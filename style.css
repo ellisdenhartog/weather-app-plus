@@ -1,0 +1,85 @@
+
+#search-button{
+    border-radius:8px;
+  }
+  #current-position{
+    border-radius: 8px;
+  }
+  
+  
+  #today-city {
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+  }
+  
+  #today-time {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+  }
+  
+  #today-weather {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+  }
+  #today-temperature {
+    text-align: center;
+    font-size: 45px;
+    color: aliceblue;
+  }
+  
+  #humidity {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    color: white;
+  }
+  
+  #wind {
+    list-style: none;
+    text-align: center;
+    color: white;
+  }
+  h5 {
+    color: black;
+    text-align: center;
+    padding-left: 10px;
+    font-size: 15px;}
+
+  
+  img {
+    display:block;
+    margin: 0 auto;
+  }
+  .container {
+    padding: 30px;
+    font-family: "Roboto", sans-serif;
+    background-image: url("background.jpg");
+    background-size: 100%;
+    border-radius: 16px;
+  
+  }
+  
+  .units {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+  
+  #fahrenheit-today {
+    color: white;
+    text-decoration: none;
+  }
+  #celsius-today {
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer {
+    text-align: right;
+    padding-right: 57px;
+    font-size: 12px;
+  }
+  
